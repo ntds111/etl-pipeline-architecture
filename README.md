@@ -76,7 +76,7 @@ python3 test2/etl/python/ingest_raw.py
 python3 test2/etl/python/pipeline.py
 ```
 
-Raw ingestion is idempotent — re-running with identical data is a no-op. Build and star are
+Raw ingestion is idempotent — re-running with identical data writes nothing. Build and star are
 full-refresh layers that can be replayed cleanly from the current raw state.
 
 Build-layer DQ summary (latest run):
