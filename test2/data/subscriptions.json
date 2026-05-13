@@ -1,0 +1,1277 @@
+[
+  {
+    "subscription_id": "sub_00001",
+    "user_id": "u_00182",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-12T08:01:57",
+    "end_date": "2025-02-16T08:01:57",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00002",
+    "user_id": "u_00426",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-02T13:51:12",
+    "end_date": "2025-04-10T13:51:12",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00003",
+    "user_id": "u_00151",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-22T00:39:50",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00004",
+    "user_id": "u_00275",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-01T04:01:57",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00005",
+    "user_id": "u_00337",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-26T16:00:09",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00006",
+    "user_id": "u_00286",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-14T08:57:42",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00007",
+    "user_id": "u_00366",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-25T00:45:24",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00008",
+    "user_id": "u_00486",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-02T16:35:38",
+    "end_date": "2025-06-30T16:35:38",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00009",
+    "user_id": "u_00157",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-18T05:14:53",
+    "end_date": "2025-03-03T05:14:53",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00010",
+    "user_id": "u_00477",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-02T11:41:38",
+    "end_date": "2025-04-07T11:41:38",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-02-02T11:41:38",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-03-04T11:41:38",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00011",
+    "user_id": "u_00412",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-21T00:55:48",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00012",
+    "user_id": "u_00357",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-16T04:19:13",
+    "end_date": "2025-04-20T04:19:13",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00013",
+    "user_id": "u_00464",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-02T03:44:45",
+    "end_date": "2025-05-09T03:44:45",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-02T03:44:45",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-01T03:44:45",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00014",
+    "user_id": "u_00357",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-17T23:57:15",
+    "end_date": "2025-04-29T23:57:15",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00015",
+    "user_id": "u_00290",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-16T11:05:19",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00016",
+    "user_id": "u_00267",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-16T05:50:34",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00017",
+    "user_id": "u_00369",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-02T19:44:45",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00018",
+    "user_id": "u_00493",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-13T08:35:17",
+    "end_date": "2025-05-06T08:35:17",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00019",
+    "user_id": "u_00282",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-14T14:49:15",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00020",
+    "user_id": "u_00037",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-17T22:45:48",
+    "end_date": "2025-03-23T22:45:48",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00021",
+    "user_id": "u_00294",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-08T22:35:56",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00022",
+    "user_id": "u_00043",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-20T01:54:53",
+    "end_date": "2025-04-15T01:54:53",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00023",
+    "user_id": "u_00175",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-21T15:10:00",
+    "end_date": "2025-03-13T15:10:00",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00024",
+    "user_id": "u_00130",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-24T22:02:22",
+    "end_date": "2025-02-11T22:02:22",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00025",
+    "user_id": "u_00310",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-12T22:43:19",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00026",
+    "user_id": "u_00158",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-01T19:10:36",
+    "end_date": "2025-06-21T19:10:36",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-01T19:10:36",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-03-31T19:10:36",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-30T19:10:36",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00027",
+    "user_id": "u_00407",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-10T07:40:25",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00028",
+    "user_id": "u_00150",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-10T20:31:34",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00029",
+    "user_id": "u_00049",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "09.03.2025",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00030",
+    "user_id": "u_00083",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-20T07:03:19",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00031",
+    "user_id": "u_00344",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-09T02:27:26",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00032",
+    "user_id": "u_00250",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-27T14:09:45",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00033",
+    "user_id": "u_00356",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-23T23:24:55",
+    "end_date": "2025-04-28T23:24:55",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-02-23T23:24:55",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-03-25T23:24:55",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00034",
+    "user_id": "u_00453",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-12T10:33:04",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00035",
+    "user_id": "u_00425",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-18T02:16:47",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00036",
+    "user_id": "u_00293",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-08T12:45:07",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00037",
+    "user_id": "u_00062",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-14T16:30:59",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00038",
+    "user_id": "u_00126",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-23T19:02:45",
+    "end_date": "2025-05-21T19:02:45",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00039",
+    "user_id": "u_00318",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-28T01:05:11",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00040",
+    "user_id": "u_00403",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-02T02:26:35",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00041",
+    "user_id": "u_00153",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-06T20:00:57",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00042",
+    "user_id": "u_00237",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-11T18:28:18",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00043",
+    "user_id": "u_00143",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-13T20:03:58",
+    "end_date": "2025-03-03T20:03:58",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00044",
+    "user_id": "u_00088",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-22T05:01:38",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00045",
+    "user_id": "u_00022",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-07T19:54:08",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00046",
+    "user_id": "u_00382",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-12T00:40:50",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00047",
+    "user_id": "u_00199",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-13T00:14:33",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00048",
+    "user_id": "u_00034",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-22T23:36:00",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00049",
+    "user_id": "u_00014",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-06T15:37:16",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00050",
+    "user_id": "u_00092",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-08T13:40:58",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00051",
+    "user_id": "u_00005",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-22T03:36:42",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00052",
+    "user_id": "u_00223",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-12T17:13:33",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00053",
+    "user_id": "u_00146",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-28T07:15:20",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00054",
+    "user_id": "u_00114",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-11T01:42:26",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00055",
+    "user_id": "u_00388",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-16T22:05:45",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00056",
+    "user_id": "u_00049",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-28T18:18:48",
+    "end_date": "2025-05-01T18:18:48",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-28T18:18:48",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00057",
+    "user_id": "u_00365",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-24T20:08:12",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00058",
+    "user_id": "u_00207",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-14T14:56:32",
+    "end_date": "2025-06-16T14:56:32",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-14T14:56:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-13T14:56:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-05-13T14:56:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00059",
+    "user_id": "u_00464",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-15T00:25:42",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00060",
+    "user_id": "u_00467",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-18T17:36:52",
+    "end_date": "2025-04-16T17:36:52",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00061",
+    "user_id": "u_00206",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-06T19:36:32",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00062",
+    "user_id": "u_00018",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-09T12:18:13",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00063",
+    "user_id": "u_00067",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-23T07:07:41",
+    "end_date": "2025-06-21T07:07:41",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00064",
+    "user_id": "u_00455",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-06T16:55:20",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00065",
+    "user_id": "u_00444",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-18T18:30:03",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00066",
+    "user_id": "u_00133",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "26.02.2025",
+    "end_date": "2025-06-25T14:24:39",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-02-26T14:24:39",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-03-28T14:24:39",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-27T14:24:39",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00067",
+    "user_id": "u_00133",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-29T23:37:39",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00068",
+    "user_id": "u_00418",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-29T02:11:00",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00069",
+    "user_id": "u_00315",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-24T15:10:13",
+    "end_date": "2025-05-18T15:10:13",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00070",
+    "user_id": "u_00210",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-17T00:18:17",
+    "end_date": "2025-04-28T00:18:17",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-17T00:18:17",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00071",
+    "user_id": "u_00417",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-17T15:47:07",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00072",
+    "user_id": "u_00482",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-24T04:32:32",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00073",
+    "user_id": "u_00313",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-30T06:55:53",
+    "end_date": "2025-02-28T06:55:53",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00074",
+    "user_id": "u_00251",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-17T23:15:28",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00075",
+    "user_id": "u_00436",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-12T13:13:16",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00076",
+    "user_id": "u_00100",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-09T00:00:31",
+    "end_date": "2025-02-20T00:00:31",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-01-09T00:00:31",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00077",
+    "user_id": "u_00452",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-06T06:18:52",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00078",
+    "user_id": "u_00343",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-21T01:06:14",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00079",
+    "user_id": "u_00175",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-15T13:28:32",
+    "end_date": "2025-07-02T13:28:32",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-15T13:28:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-14T13:28:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-05-14T13:28:32",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00080",
+    "user_id": "u_00100",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-14T11:43:55",
+    "end_date": "2025-03-06T11:43:55",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-01-14T11:43:55",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00081",
+    "user_id": "u_00253",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-10T16:47:47",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00082",
+    "user_id": "u_00413",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-20T13:04:39",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00083",
+    "user_id": "u_00376",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-28T16:36:29",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00084",
+    "user_id": "u_00366",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-06T15:58:31",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00085",
+    "user_id": "u_00285",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-12T00:13:52",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00086",
+    "user_id": "u_00021",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-21T05:09:28",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00087",
+    "user_id": "u_00466",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-24T16:41:34",
+    "end_date": "2025-06-04T16:41:34",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-24T16:41:34",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-23T16:41:34",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00088",
+    "user_id": "u_00262",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-16T03:39:05",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00089",
+    "user_id": "u_00491",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-09T07:56:11",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00090",
+    "user_id": "u_00395",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-16T06:07:04",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00091",
+    "user_id": "u_00303",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-11T19:11:18",
+    "end_date": "2025-01-26T19:11:18",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00092",
+    "user_id": "u_00220",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-25T14:36:55",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00093",
+    "user_id": "u_00408",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "17.03.2025",
+    "end_date": "2025-04-01T12:56:23",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00094",
+    "user_id": "u_00278",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-09T17:27:14",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00095",
+    "user_id": "u_00118",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-17T04:08:21",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00096",
+    "user_id": "u_00186",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-17T08:38:04",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00097",
+    "user_id": "u_00270",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-26T11:40:12",
+    "end_date": "2025-04-30T11:40:12",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00098",
+    "user_id": "u_00494",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-01-18T13:43:01",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00099",
+    "user_id": "u_00427",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-15T17:36:30",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00100",
+    "user_id": "u_00331",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-28T20:04:20",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00101",
+    "user_id": "u_00063",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-09T23:00:12",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00102",
+    "user_id": "u_00286",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-02-28T18:32:36",
+    "end_date": "2025-04-13T18:32:36",
+    "status": "churned",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00103",
+    "user_id": "u_00293",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-10T09:40:34",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00104",
+    "user_id": "u_00369",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-22T04:49:08",
+    "end_date": "2025-07-14T04:49:08",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-22T04:49:08",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-21T04:49:08",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-05-21T04:49:08",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00105",
+    "user_id": "u_00458",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-01-15T03:18:59",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00106",
+    "user_id": "u_00234",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-22T03:53:07",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00107",
+    "user_id": "u_00358",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-04T02:16:29",
+    "end_date": "2025-06-12T02:16:29",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-03-04T02:16:29",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-04-03T02:16:29",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-05-03T02:16:29",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00108",
+    "user_id": "u_00263",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-02-28T03:17:36",
+    "end_date": "2025-05-21T03:17:36",
+    "status": "churned",
+    "renewal_history": [
+      {
+        "renewal_date": "2025-02-28T03:17:36",
+        "amount_usd": 9.99,
+        "status": "paid"
+      },
+      {
+        "renewal_date": "2025-03-30T03:17:36",
+        "amount_usd": 9.99,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "subscription_id": "sub_00109",
+    "user_id": "u_00070",
+    "plan": "monthly",
+    "amount_usd": 9.99,
+    "start_date": "2025-03-24T16:06:33",
+    "end_date": null,
+    "status": "active",
+    "renewal_history": []
+  },
+  {
+    "subscription_id": "sub_00110",
+    "user_id": "u_00120",
+    "plan": "annual",
+    "amount_usd": 89.99,
+    "start_date": "2025-03-30T08:31:54",
+    "end_date": "2025-05-26T08:31:54",
+    "status": "churned",
+    "renewal_history": []
+  }
+]

@@ -1,0 +1,13 @@
+customer_id,customer_name,signup_date,country
+C001,Acme Retail GmbH,2024-11-18,DE
+C002,Bluebird Health,2025-01-07,DE
+C003,Northwind Labs,2024-08-03,NL
+C004,Orchid Mobility,2025-02-14,DE
+C005,Pioneer Foods,2024-12-09,AT
+C006,Quartz Energy,2025-04-21,DE
+C007,Riverbank Media,2024-06-30,CH
+C008,Sunrise Travel,2025-05-12,DE
+C009,Tandem Logistics,2024-09-25,PL
+C010,Umbra Telecom,2025-03-03,DE
+C011,Velvet Finance,2024-05-17,GB
+C012,Willow Services,2025-07-01,DE

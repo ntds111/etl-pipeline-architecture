@@ -1,0 +1,514 @@
+user_id,email,country_code,install_date,acquisition_channel,device_os,app_version
+u_00376,user376@example.com,DE,28.03.2025,Organic,iOS,4.9.5
+u_00474,user474@example.com,US,2025-01-05,apple_search,iOS,2.1.1
+u_00424,user424@example.com,BR,01/01/2025,referral_program,android,2.2.1
+u_00290,user290@gmail.com,ES,07/02/2025,Apple Search Ads,iOS,2.3.0
+u_00136,user136@gmail.com,IT,2025-03-04,FB,android,3.9.5
+u_00062,user62@gmail.com,KR,2025-01-18 02:25:43,referral_program,ios,3.9.2
+u_00400,user400@gmail.com,US,02/22/2025,organic,Android,2.9.4
+u_00015,user15@gmail.com,US,2025-02-17,facebook,ios,2.9.0
+u_00361,user361@gmail.com,JP,,tiktok_ads,ios,2.3.1
+u_00260,user260@example.com,GB,01/19/2025,tiktok_ads,android,4.6.4
+u_00301,user301@gmail.com,US,06/02/2025,tiktok,Android,4.4.0
+u_00255,user255@gmail.com,DE,03/02/2025,facebook,ios,3.4.2
+u_00312,user312@gmail.com,USA,2025-03-02,ASA,ios,3.6.1
+u_00112,user112@example.com,US,19.03.2025,google,iOS,3.0.1
+u_00060,user60@gmail.com,CA,28.02.2025,facebook_ads,iOS,4.5.0
+u_00151,user151@gmail.com,,03/09/2025,Meta,android,2.2.4
+u_00091,user91@gmail.com,GB,2025-02-18 18:25:23,Apple Search Ads,iOS,2.2.3
+u_00435,user435@example.com,UK,20.03.2025,TikTok,iOS,3.9.2
+u_00200,user200@example.com,BR,03/14/2025,tiktok,iOS,3.7.5
+u_00277,user277@gmail.com,DE,13/01/2025,google,iOS,4.4.1
+u_00496,user496@example.com,FR,02/27/2025,facebook,ios,2.4.4
+u_00001,USER1@EXAMPLE.COM,US,04.03.2025,facebook_ads,ios,2.9.3
+u_00201,user201@gmail.com,DE,2025-02-22,referral_program,Android,3.2.5
+u_00437,user437@gmail.com,USA,23/02/2025,referral,ios,4.1.5
+u_00003,USER3@GMAIL.COM,AU,02/27/2025,GoogleAds,iOS,2.3.2
+u_00232,user232@example.com,CA,07/03/2025,Organic,Android,4.8.2
+u_00240,user240@gmail.com,CA,2025-01-03 21:01:58,GoogleAds,android,2.9.5
+u_00107,user107@gmail.com,DE,06.02.2025,apple_search,Android,3.4.0
+u_00367,user367@gmail.com,GB,09/03/2025,facebook,iOS,3.1.4
+u_00323,user323@example.com,US,01/22/2025,Apple Search Ads,android,2.1.5
+u_00066,user66@example.com,DE,03/11/2025,referral,iOS,4.9.2
+u_00394,user394@example.com,BR,03/01/2025,apple_search,android,4.0.3
+u_00206,user206@example.com,GB,30.03.2025,tiktok,Android,3.6.5
+u_00034,user34@example.com,US,2025-02-26,apple_search,Android,3.3.5
+u_00161,user161@gmail.com,DE,02/11/2025,FB,Android,3.7.4
+u_00018,user18@example.com,US,2025-01-12,google_ads,ios,2.0.1
+u_00089,user89@gmail.com,FR,03/02/2025,TikTok,android,4.6.1
+u_00243,user243@example.com,DE,19.01.2025,Organic,android,4.5.3
+u_00300,user300@example.com,JP,2025-01-15,facebook,iOS,3.0.5
+u_00329,user329@gmail.com,DE,2025-01-20 22:58:02,Google Ads,ios,4.8.3
+u_00429,user429@gmail.com,AU,01/14/2025,Apple Search Ads,Android,3.9.4
+u_00393,user393@gmail.com,US,2025-03-08,GoogleAds,iOS,3.7.0
+u_00313,user313@gmail.com,ES,2025-02-10 16:53:16,Google Ads,Android,4.5.3
+u_00387,user387@gmail.com,JP,05.01.2025,apple_search,android,2.2.0
+u_00025,user25@gmail.com,US,14.03.2025,TikTok,android,2.2.0
+u_00413,user413@gmail.com,US,13.01.2025,google_ads,iOS,4.4.5
+u_00410,user410@gmail.com,US,01/14/2025,facebook_ads,android,2.6.5
+u_00020,user20@example.com,CA,2025-02-15 21:24:11,google_ads,android,3.7.5
+u_00006,user6@gmail.com,GB,26/03/2025,facebook_ads,android,4.4.5
+u_00003,user3@gmail.com,AU,02/27/2025,GoogleAds,iOS,2.3.2
+u_00303,user303@gmail.com,US,01/13/2025,organic,iOS,3.6.5
+u_00128,user128@example.com,US,01.02.2025,facebook_ads,android,4.5.0
+u_00252,user252@gmail.com,JP,21.02.2025,referral_program,android,4.1.0
+u_00445,user445@gmail.com,US,01/11/2025,apple_search,ios,4.9.2
+u_00418,user418@gmail.com,FR,29.03.2025,Facebook,android,4.4.1
+u_00253,user253@example.com,ES,2025-03-16 15:47:34,google_ads,ios,3.6.0
+u_00350,user350@gmail.com,,01/22/2025,ORGANIC,android,4.9.4
+u_00187,user187@gmail.com,,2025-03-22,referral_program,ios,3.9.2
+u_00082,user82@gmail.com,USA,2025-01-09,TikTok,iOS,4.8.3
+u_00308,user308@example.com,USA,2025-03-14,apple_search,android,2.2.1
+u_00362,user362@gmail.com,GB,2025-03-09,tiktok_ads,iOS,3.4.3
+u_00265,user265@gmail.com,ES,2025-02-24 12:34:51,referral_program,android,2.1.4
+u_00324,user324@example.com,DE,2025-03-07,TikTok,ios,4.0.0
+u_00275,user275@example.com,AU,03/06/2025,tiktok_ads,android,3.4.2
+u_00360,user360@gmail.com,US,2025-02-17 12:47:50,FB,android,2.0.4
+u_00337,user337@example.com,MX,01/26/2025,TikTok,iOS,4.7.0
+u_00123,user123@example.com,JP,2025-03-16 00:32:34,tiktok,ios,2.2.5
+u_00234,user234@example.com,ES,2025-03-08,FB,iOS,4.0.5
+u_00477,user477@example.com,UK,2025-03-16,google_ads,android,4.3.3
+u_00466,user466@example.com,DE,,tiktok,Android,4.5.2
+u_00408,user408@gmail.com,IT,2025-01-29,tiktok,ios,3.2.4
+u_00130,user130@example.com,US,01/12/2025,organic,ios,2.6.0
+u_00327,user327@example.com,GB,2025-01-11,FB,android,3.9.4
+u_00291,user291@gmail.com,DE,2025-02-12,facebook_ads,iOS,2.2.5
+u_00366,user366@gmail.com,US,2025-03-23 04:18:03,facebook,iOS,4.2.1
+u_00310,user310@example.com,US,13.02.2025,Meta,ios,3.6.3
+u_00409,user409@gmail.com,NO,01/22/2025,Meta,ios,2.8.4
+u_00019,user19@gmail.com,BR,07.01.2025,Facebook,iOS,2.9.4
+u_00115,user115@gmail.com,DE,2025-02-16,organic,iOS,3.9.1
+u_00440,user440@gmail.com,SE,01.03.2025,Facebook,android,2.2.5
+u_00027,user27@gmail.com,ES,08/01/2025,Organic,ios,3.6.1
+u_00072,user72@example.com,US,2025-02-08,referral,iOS,2.1.4
+u_00322,user322@gmail.com,JP,18/01/2025,facebook,android,4.5.4
+u_00355,user355@gmail.com,DE,01/29/2025,facebook_ads,ios,4.1.1
+u_00471,user471@gmail.com,DE,2025-02-06 06:39:12,Google Ads,android,3.3.2
+u_00292,user292@gmail.com,DE,02/01/2025,google,ios,3.2.5
+u_00145,user145@gmail.com,NL,2025-02-09 21:22:11,tiktok_ads,Android,2.8.1
+u_00434,user434@gmail.com,US,,GoogleAds,iOS,4.3.5
+u_00090,user90@gmail.com,US,25/03/2025,Organic,android,3.0.1
+u_00077,user77@example.com,MX,22.01.2025,Meta,Android,3.7.0
+u_00190,user190@gmail.com,US,2025-01-31,Organic,Android,4.2.4
+u_00236,user236@gmail.com,DE,21.01.2025,Apple Search Ads,iOS,4.0.1
+u_00404,user404@gmail.com,ES,07.01.2025,Google Ads,Android,4.6.5
+u_00427,user427@example.com,US,28.03.2025,Apple Search Ads,Android,4.0.5
+u_00282,user282@gmail.com,US,21/02/2025,Apple Search Ads,Android,3.9.5
+u_00085,user85@example.com,FR,2025-02-23,facebook,iOS,4.2.3
+u_00174,user174@gmail.com,US,23.02.2025,GoogleAds,ios,4.2.1
+u_00354,user354@gmail.com,NL,03/02/2025,google_ads,android,4.8.1
+u_00028,user28@example.com,DE,2025-03-07,tiktok,iOS,2.8.1
+u_00218,user218@gmail.com,USA,03/17/2025,TikTok,Android,2.8.4
+u_00444,user444@gmail.com,US,,GoogleAds,Android,2.6.4
+u_00111,user111@gmail.com,GB,20/03/2025,google_ads,Android,2.8.2
+u_00238,user238@gmail.com,FR,24/02/2025,google_ads,android,4.1.4
+u_00493,user493@gmail.com,BR,06/03/2025,Organic,Android,4.9.3
+u_00220,user220@example.com,US,10/02/2025,Organic,android,3.2.3
+u_00059,user59@example.com,UK,2025-03-07,organic,Android,4.4.5
+u_00002,user2@gmail.com,,04.01.2025,facebook,Android,3.3.3
+u_00033,user33@gmail.com,NO,26/01/2025,google,android,4.0.2
+u_00446,user446@gmail.com,KR,2025-03-09 09:35:03,ORGANIC,android,4.7.4
+u_00420,user420@gmail.com,US,14/01/2025,ORGANIC,Android,3.3.0
+u_00001,user1@example.com,US,04.03.2025,facebook_ads,ios,2.9.3
+u_00484,user484@gmail.com,FR,17.02.2025,Google Ads,ios,4.2.0
+u_00381,user381@gmail.com,US,02/09/2025,Organic,iOS,4.8.1
+u_00304,user304@example.com,GB,22.03.2025,TikTok,ios,2.2.0
+u_00433,user433@gmail.com,GB,2025-03-18,organic,iOS,3.9.4
+u_00210,user210@gmail.com,DE,2025-02-19,Organic,iOS,3.4.0
+u_00401,user401@example.com,AU,16.02.2025,apple_search,iOS,4.3.0
+u_00487,user487@gmail.com,US,18.02.2025,apple_search,ios,4.1.0
+u_00225,user225@gmail.com,GB,2025-03-04 23:37:49,tiktok_ads,ios,3.3.2
+u_00094,user94@gmail.com,,01/10/2025,facebook_ads,ios,3.5.3
+u_00390,user390@example.com,ES,11/03/2025,apple_search,Android,4.2.4
+u_00040,user40@gmail.com,DE,2025-03-12 17:37:58,TikTok,iOS,2.8.4
+u_00054,user54@gmail.com,JP,2025-01-17,ORGANIC,iOS,4.6.1
+u_00325,user325@gmail.com,SE,07.02.2025,ORGANIC,Android,3.1.3
+u_00092,user92@gmail.com,US,03/26/2025,Meta,ios,4.8.3
+u_00432,user432@gmail.com,MX,22.02.2025,facebook,android,3.3.3
+u_00378,user378@example.com,US,2025-02-03 13:39:16,organic,iOS,3.2.0
+u_00038,user38@gmail.com,UK,06.03.2025,Google Ads,ios,3.8.2
+u_00425,user425@gmail.com,SE,2025-02-05,ASA,iOS,3.7.3
+u_00039,user39@example.com,BR,2025-01-03,facebook_ads,ios,4.6.2
+u_00086,user86@gmail.com,FR,2025-03-11 13:48:24,tiktok,ios,4.2.3
+u_00417,user417@gmail.com,SE,28.03.2025,FB,iOS,3.9.1
+u_00363,user363@gmail.com,IT,2025-03-12 15:58:16,referral_program,ios,3.3.1
+u_00213,user213@gmail.com,GB,26.03.2025,organic,Android,3.8.1
+u_00399,user399@gmail.com,CA,04.02.2025,FB,ios,2.6.4
+u_00324,user324@example.com,DE,2025-03-07,TikTok,ios,4.0.0
+u_00461,user461@gmail.com,GB,2025-02-06 23:57:35,ASA,Android,4.9.4
+u_00099,user99@gmail.com,MX,25/03/2025,Facebook,android,4.5.1
+u_00467,user467@gmail.com,DE,25.03.2025,referral,ios,2.9.4
+u_00022,user22@gmail.com,DE,2025-01-18,GoogleAds,iOS,4.8.0
+u_00093,user93@gmail.com,BR,01/31/2025,referral,iOS,2.1.3
+u_00215,user215@example.com,GB,2025-01-25,ORGANIC,ios,4.6.4
+u_00030,user30@gmail.com,KR,2025-01-30,ASA,iOS,2.4.0
+u_00494,user494@gmail.com,FR,02/04/2025,TikTok,ios,4.3.4
+u_00326,user326@example.com,ES,03/18/2025,Apple Search Ads,Android,2.5.2
+u_00246,user246@gmail.com,GB,2025-02-17 00:20:26,FB,Android,2.2.2
+u_00489,user489@example.com,IT,2025-02-17,referral_program,ios,2.7.0
+u_00065,user65@example.com,JP,01/01/2025,referral_program,iOS,4.7.5
+u_00168,user168@gmail.com,KR,03/29/2025,ORGANIC,ios,3.2.5
+u_00479,user479@gmail.com,US,2025-03-03 23:51:34,tiktok,iOS,3.0.1
+u_00233,user233@example.com,USA,21/03/2025,tiktok_ads,android,4.3.2
+u_00152,user152@gmail.com,FR,12/03/2025,ASA,iOS,3.9.3
+u_00256,user256@gmail.com,FR,02/14/2025,Google Ads,ios,2.4.0
+u_00399,user399@gmail.com,CA,04.02.2025,FB,ios,2.6.4
+u_00007,user7@gmail.com,IT,03/08/2025,FB,Android,4.8.1
+u_00254,user254@gmail.com,USA,02.01.2025,facebook_ads,Android,4.8.1
+u_00083,user83@gmail.com,US,2025-02-10,Facebook,ios,2.4.4
+u_00368,user368@gmail.com,US,03/11/2025,ASA,iOS,4.3.2
+u_00209,user209@gmail.com,DE,2025-02-01 20:34:10,referral_program,Android,2.7.1
+u_00284,user284@gmail.com,ES,2025-01-25,GoogleAds,Android,4.4.1
+u_00140,user140@example.com,BR,01/25/2025,ASA,ios,4.6.1
+u_00325,user325@gmail.com,SE,07.02.2025,ORGANIC,Android,3.1.3
+u_00497,user497@example.com,FR,02/19/2025,apple_search,Android,3.9.1
+u_00029,user29@gmail.com,US,19/02/2025,GoogleAds,ios,3.8.5
+u_00129,user129@gmail.com,DE,08.02.2025,Facebook,android,3.6.2
+u_00024,user24@example.com,GB,26.01.2025,ORGANIC,android,4.8.0
+u_00197,user197@example.com,US,2025-02-02 01:38:23,referral,Android,4.7.3
+u_00453,user453@gmail.com,UK,02/18/2025,tiktok_ads,Android,4.0.0
+u_00224,user224@gmail.com,MX,01/12/2025,referral,Android,3.7.4
+u_00457,user457@example.com,DE,15.01.2025,Meta,iOS,4.5.3
+u_00186,user186@example.com,US,03/28/2025,referral_program,ios,4.5.4
+u_00422,user422@gmail.com,NL,01/02/2025,facebook_ads,ios,3.6.2
+u_00208,user208@example.com,US,10.03.2025,tiktok_ads,iOS,4.2.1
+u_00411,user411@example.com,US,24/03/2025,referral_program,Android,4.9.0
+u_00476,user476@example.com,US,01/08/2025,Meta,android,3.0.0
+u_00488,user488@example.com,US,23.03.2025,Meta,iOS,4.6.5
+u_00262,user262@gmail.com,GB,07.03.2025,Meta,Android,3.6.4
+u_00074,user74@gmail.com,US,2025-02-25,ASA,iOS,2.3.1
+u_00271,user271@example.com,KR,2025-03-25,referral_program,iOS,3.2.5
+u_00207,user207@gmail.com,CA,2025-02-23,referral,Android,4.7.4
+u_00228,user228@example.com,DE,04.03.2025,referral,ios,4.0.4
+u_00279,user279@gmail.com,,30/01/2025,google_ads,iOS,4.3.4
+u_00049,user49@gmail.com,DE,2025-03-25 15:25:43,referral,Android,4.3.2
+u_00438,user438@example.com,CA,23.01.2025,ORGANIC,Android,4.0.1
+u_00349,user349@gmail.com,US,2025-03-19 18:09:00,facebook,ios,3.7.2
+u_00485,user485@gmail.com,DE,21.02.2025,Meta,ios,3.2.0
+u_00468,user468@gmail.com,DE,2025-02-14,Apple Search Ads,ios,3.4.2
+u_00143,user143@gmail.com,AU,08.01.2025,tiktok,iOS,2.5.4
+u_00352,user352@gmail.com,CA,01/15/2025,referral_program,iOS,4.2.5
+u_00347,user347@example.com,GB,22/03/2025,FB,android,2.3.5
+u_00384,user384@gmail.com,NL,2025-02-20 16:18:48,tiktok_ads,iOS,2.4.4
+u_00204,user204@gmail.com,UK,01.01.2025,GoogleAds,android,2.4.5
+u_00392,user392@example.com,CA,27/03/2025,Organic,iOS,3.2.2
+u_00063,user63@example.com,AU,01.02.2025,google_ads,iOS,4.6.2
+u_00216,user216@example.com,,2025-03-16,facebook,iOS,2.0.3
+u_00307,user307@gmail.com,UK,2025-01-25,tiktok_ads,iOS,3.7.4
+u_00315,user315@gmail.com,FR,03/20/2025,referral,Android,4.0.1
+u_00369,user369@gmail.com,GB,2025-03-10 07:07:35,Organic,iOS,3.3.0
+u_00134,user134@gmail.com,ES,2025-02-13,Apple Search Ads,ios,3.7.5
+u_00330,user330@example.com,GB,2025-01-15 21:53:25,Facebook,android,2.1.0
+u_00328,user328@gmail.com,NL,28/03/2025,referral,android,2.1.2
+u_00442,user442@gmail.com,USA,2025-01-04 12:01:42,tiktok_ads,iOS,3.6.3
+u_00481,user481@example.com,USA,2025-02-06,FB,android,2.5.5
+u_00138,user138@gmail.com,US,03/04/2025,google,android,3.4.3
+u_00153,user153@gmail.com,,07/01/2025,facebook_ads,android,4.2.2
+u_00147,user147@gmail.com,KR,2025-02-21 05:04:13,Organic,Android,3.8.0
+u_00341,user341@gmail.com,US,2025-03-29,tiktok_ads,ios,2.2.2
+u_00002,USER2@GMAIL.COM,,04.01.2025,facebook,Android,3.3.3
+u_00464,user464@example.com,ES,2025-03-12 15:49:57,google_ads,iOS,4.0.0
+u_00286,user286@gmail.com,ES,01/24/2025,referral,iOS,2.6.4
+u_00359,user359@gmail.com,DE,18/01/2025,FB,Android,2.9.1
+u_00443,user443@gmail.com,FR,26.02.2025,Google Ads,iOS,4.5.2
+u_00455,user455@gmail.com,GB,02/15/2025,ASA,Android,3.6.2
+u_00189,user189@example.com,FR,2025-02-16,google,android,2.0.3
+u_00274,user274@gmail.com,,2025-03-27,tiktok_ads,android,4.7.5
+u_00011,user11@gmail.com,BR,2025-03-15,Facebook,Android,3.6.4
+u_00389,user389@gmail.com,CA,01/29/2025,ORGANIC,Android,4.8.2
+u_00465,user465@example.com,FR,2025-03-16 20:24:20,organic,iOS,3.3.1
+u_00110,user110@gmail.com,USA,05.01.2025,TikTok,Android,2.9.1
+u_00064,user64@gmail.com,AU,01/03/2025,referral,Android,4.4.4
+u_00118,user118@gmail.com,DE,2025-01-10,TikTok,ios,2.1.0
+u_00283,user283@example.com,US,02/12/2025,Google Ads,iOS,3.5.1
+u_00084,user84@example.com,DE,13/01/2025,tiktok,android,4.2.2
+u_00441,user441@example.com,US,17/02/2025,ORGANIC,ios,4.2.5
+u_00348,user348@gmail.com,ES,2025-01-21 01:43:05,GoogleAds,iOS,2.2.4
+u_00158,user158@gmail.com,US,2025-01-29 11:46:14,Google Ads,Android,4.7.2
+u_00495,user495@gmail.com,GB,2025-02-22,Google Ads,ios,4.0.2
+u_00113,user113@gmail.com,US,01/26/2025,Facebook,android,4.9.0
+u_00157,user157@gmail.com,AU,20/03/2025,google,android,2.7.0
+u_00017,user17@gmail.com,CA,01/21/2025,apple_search,Android,3.8.3
+u_00053,user53@gmail.com,FR,2025-03-24 20:40:40,Organic,Android,3.6.5
+u_00194,user194@gmail.com,MX,02/22/2025,organic,android,2.4.5
+u_00052,user52@gmail.com,JP,2025-03-29,Apple Search Ads,iOS,3.4.3
+u_00172,user172@gmail.com,CA,2025-02-27,google,Android,4.2.2
+u_00191,user191@gmail.com,GB,21.01.2025,apple_search,android,3.8.2
+u_00406,user406@gmail.com,IT,2025-02-24 04:25:49,FB,Android,3.5.0
+u_00296,user296@gmail.com,JP,2025-02-05 08:07:36,organic,Android,2.5.1
+u_00289,user289@example.com,ES,09/02/2025,FB,Android,2.8.2
+u_00237,user237@gmail.com,US,2025-03-24 13:38:23,TikTok,Android,2.4.1
+u_00004,user4@gmail.com,GB,2025-01-10 22:10:01,FB,ios,4.1.3
+u_00309,user309@gmail.com,GB,2025-03-21,organic,iOS,2.3.5
+u_00396,user396@gmail.com,CA,30/03/2025,tiktok_ads,Android,4.1.1
+u_00009,user9@gmail.com,US,03/27/2025,TikTok,android,2.3.5
+u_00416,user416@gmail.com,US,17.02.2025,apple_search,iOS,2.4.5
+u_00050,user50@example.com,SE,12/02/2025,FB,Android,2.3.3
+u_00042,user42@gmail.com,GB,2025-01-31 00:41:07,Organic,ios,4.2.4
+u_00036,user36@gmail.com,NO,03/01/2025,google,ios,3.2.5
+u_00122,user122@gmail.com,AU,2025-01-22,Organic,iOS,2.4.5
+u_00126,user126@gmail.com,DE,02/28/2025,ORGANIC,Android,4.9.3
+u_00100,user100@gmail.com,IT,03/03/2025,Google Ads,Android,3.0.4
+u_00302,user302@gmail.com,MX,2025-01-05,google_ads,android,4.1.4
+u_00048,user48@gmail.com,IT,21.02.2025,apple_search,android,3.2.5
+u_00448,user448@example.com,US,02/20/2025,apple_search,ios,2.8.1
+u_00167,user167@gmail.com,US,10/03/2025,ORGANIC,ios,2.7.1
+u_00183,user183@gmail.com,UK,2025-02-05 12:41:45,Facebook,Android,4.4.4
+u_00241,user241@gmail.com,CA,06/02/2025,FB,ios,3.2.5
+u_00069,user69@gmail.com,SE,02/17/2025,GoogleAds,ios,2.4.0
+u_00245,user245@gmail.com,US,2025-03-08 12:54:07,organic,ios,3.6.2
+u_00041,user41@gmail.com,GB,2025-03-08,Google Ads,iOS,4.4.4
+u_00184,user184@gmail.com,US,03/08/2025,ASA,iOS,2.3.4
+u_00266,user266@example.com,GB,03.01.2025,google_ads,ios,4.7.4
+u_00263,user263@gmail.com,UK,14/01/2025,Apple Search Ads,Android,4.2.3
+u_00264,user264@gmail.com,US,2025-01-29 01:02:01,Meta,android,2.3.3
+u_00353,user353@gmail.com,KR,03.01.2025,referral,ios,4.9.1
+u_00456,user456@gmail.com,FR,13.02.2025,google,Android,3.6.1
+u_00014,user14@example.com,AU,26.03.2025,tiktok,Android,2.9.2
+u_00473,user473@gmail.com,US,14/01/2025,tiktok,android,3.0.1
+u_00297,user297@gmail.com,USA,2025-02-10,TikTok,iOS,2.3.4
+u_00055,user55@gmail.com,US,2025-03-26 03:54:36,ORGANIC,ios,3.6.2
+u_00097,user97@gmail.com,JP,01/08/2025,ORGANIC,ios,2.6.3
+u_00314,user314@gmail.com,GB,22/02/2025,referral,ios,2.4.0
+u_00141,user141@gmail.com,GB,27.02.2025,FB,android,2.6.4
+u_00430,user430@example.com,GB,07.01.2025,google_ads,Android,4.6.1
+u_00156,user156@gmail.com,GB,2025-03-18,FB,iOS,3.8.2
+u_00211,user211@gmail.com,IT,2025-03-14,Google Ads,iOS,2.7.0
+u_00447,user447@example.com,DE,25/03/2025,facebook,ios,3.6.2
+u_00164,user164@example.com,US,17.03.2025,ORGANIC,iOS,2.9.1
+u_00431,user431@gmail.com,US,2025-02-28,facebook_ads,iOS,3.2.4
+u_00470,user470@example.com,JP,01.01.2025,referral,android,2.0.4
+u_00371,user371@gmail.com,DE,01/29/2025,GoogleAds,iOS,4.5.3
+u_00095,user95@example.com,FR,15.01.2025,google_ads,Android,4.3.3
+u_00061,user61@gmail.com,AU,2025-03-24 11:39:16,Organic,iOS,4.2.3
+u_00346,user346@gmail.com,IT,02/06/2025,referral,Android,2.4.5
+u_00365,user365@gmail.com,GB,2025-02-05,Facebook,ios,4.1.5
+u_00163,user163@gmail.com,US,2025-03-04,Facebook,android,2.9.5
+u_00331,user331@gmail.com,ES,2025-01-21 02:14:07,google,iOS,3.4.0
+u_00428,user428@gmail.com,JP,12/03/2025,tiktok,Android,2.6.4
+u_00454,user454@gmail.com,GB,07.03.2025,Google Ads,iOS,3.3.2
+u_00472,user472@example.com,IT,2025-01-08 16:34:19,Organic,ios,2.1.1
+u_00460,user460@gmail.com,US,26.03.2025,ASA,Android,3.7.0
+u_00159,user159@gmail.com,GB,01/04/2025,Google Ads,iOS,3.6.5
+u_00451,user451@gmail.com,IT,08.01.2025,referral,iOS,3.7.1
+u_00104,user104@gmail.com,FR,2025-01-02 08:25:58,GoogleAds,android,4.5.0
+u_00298,user298@gmail.com,US,2025-01-05,organic,android,4.7.0
+u_00311,user311@gmail.com,NL,2025-01-03 20:41:55,organic,Android,2.0.4
+u_00106,user106@gmail.com,US,09.02.2025,facebook_ads,iOS,2.6.3
+u_00490,user490@gmail.com,GB,15.02.2025,Facebook,android,3.8.0
+u_00278,user278@example.com,US,26/03/2025,GoogleAds,ios,2.6.5
+u_00230,user230@gmail.com,DE,2025-01-22 05:39:13,referral_program,iOS,4.7.0
+u_00169,user169@example.com,CA,2025-03-10 21:24:12,google,Android,2.5.4
+u_00160,user160@gmail.com,GB,12.02.2025,organic,Android,3.1.5
+u_00219,user219@gmail.com,,2025-03-27 09:52:54,google,android,4.5.5
+u_00022,user22@gmail.com,DE,2025-01-18,GoogleAds,iOS,4.8.0
+u_00294,user294@gmail.com,ES,11.03.2025,Apple Search Ads,android,2.5.1
+u_00124,user124@gmail.com,US,03/03/2025,facebook,Android,4.5.4
+u_00214,user214@gmail.com,AU,2025-03-12 16:01:56,google_ads,iOS,4.6.1
+u_00117,user117@gmail.com,AU,2025-03-19 00:02:52,facebook_ads,Android,3.6.5
+u_00267,user267@gmail.com,FR,2025-02-19,facebook_ads,ios,4.7.4
+u_00196,user196@example.com,NO,11/01/2025,ASA,Android,2.1.3
+u_00045,user45@gmail.com,GB,2025-03-03,ASA,Android,2.3.3
+u_00071,user71@gmail.com,IT,03/26/2025,facebook,android,3.1.0
+u_00332,user332@gmail.com,UK,03/04/2025,apple_search,ios,3.7.2
+u_00175,user175@gmail.com,SE,2025-03-05,ASA,ios,2.0.5
+u_00078,user78@gmail.com,NL,2025-02-15,tiktok,ios,3.5.4
+u_00116,user116@gmail.com,GB,07.01.2025,Meta,ios,4.6.0
+u_00144,user144@example.com,GB,13/01/2025,ASA,Android,4.7.0
+u_00285,user285@example.com,FR,20/02/2025,ASA,android,3.6.0
+u_00016,user16@example.com,AU,01/09/2025,referral,Android,4.9.3
+u_00364,user364@gmail.com,US,30.03.2025,organic,Android,4.2.0
+u_00132,user132@gmail.com,FR,03/03/2025,facebook_ads,Android,2.1.1
+u_00032,user32@example.com,MX,2025-02-17,GoogleAds,iOS,3.2.5
+u_00142,user142@gmail.com,GB,05/02/2025,facebook,Android,2.2.1
+u_00342,user342@example.com,CA,14/03/2025,ORGANIC,ios,3.3.3
+u_00121,user121@example.com,US,02/26/2025,referral_program,android,2.4.4
+u_00155,user155@gmail.com,CA,02/22/2025,referral_program,iOS,3.0.2
+u_00321,user321@example.com,US,02/17/2025,TikTok,ios,4.4.1
+u_00182,user182@example.com,,05/01/2025,Facebook,android,3.5.3
+u_00181,user181@example.com,BR,15/02/2025,referral,android,2.9.2
+u_00178,user178@gmail.com,IT,01/20/2025,TikTok,ios,3.2.2
+u_00372,user372@example.com,US,03/13/2025,facebook_ads,iOS,3.7.4
+u_00081,user81@gmail.com,ES,2025-02-02 08:39:53,TikTok,Android,4.0.3
+u_00492,user492@gmail.com,ES,19.01.2025,referral_program,Android,3.7.5
+u_00251,user251@gmail.com,USA,03.03.2025,tiktok,Android,3.9.3
+u_00171,user171@gmail.com,US,03/21/2025,Apple Search Ads,ios,2.8.5
+u_00405,user405@example.com,NO,2025-03-21,FB,Android,2.2.2
+u_00272,user272@gmail.com,USA,2025-03-26 02:06:35,Meta,ios,2.9.5
+u_00459,user459@gmail.com,USA,2025-03-14,TikTok,ios,3.1.2
+u_00021,user21@gmail.com,US,06.01.2025,facebook_ads,ios,3.2.3
+u_00402,user402@gmail.com,GB,08.03.2025,TikTok,iOS,3.8.4
+u_00463,user463@gmail.com,CA,28/03/2025,ORGANIC,ios,2.0.1
+u_00235,user235@gmail.com,DE,2025-01-17,FB,android,4.0.1
+u_00478,user478@gmail.com,,07.02.2025,tiktok,Android,2.4.3
+u_00469,user469@example.com,US,02/10/2025,GoogleAds,iOS,3.7.4
+u_00096,user96@gmail.com,US,2025-03-30 15:02:44,Apple Search Ads,android,3.8.1
+u_00450,user450@example.com,BR,03/13/2025,google_ads,Android,2.1.0
+u_00273,user273@gmail.com,GB,27.01.2025,Organic,iOS,4.4.5
+u_00306,user306@gmail.com,US,03/24/2025,facebook_ads,ios,2.1.5
+u_00249,user249@gmail.com,AU,06.02.2025,GoogleAds,android,2.8.0
+u_00162,user162@gmail.com,,03/11/2025,Organic,android,4.6.2
+u_00051,user51@gmail.com,NL,2025-03-09,Meta,iOS,2.6.3
+u_00261,user261@gmail.com,US,02/08/2025,Apple Search Ads,ios,4.9.0
+u_00195,user195@gmail.com,JP,01/08/2025,tiktok_ads,ios,4.4.1
+u_00119,user119@gmail.com,NO,11.02.2025,facebook_ads,ios,4.5.5
+u_00198,user198@gmail.com,CA,2025-03-05,Google Ads,ios,4.9.1
+u_00333,user333@gmail.com,FR,01/22/2025,GoogleAds,Android,4.6.4
+u_00150,user150@gmail.com,US,06/02/2025,google_ads,iOS,2.4.3
+u_00383,user383@example.com,SE,,tiktok_ads,iOS,3.4.4
+u_00056,user56@gmail.com,DE,2025-03-23,FB,iOS,2.3.1
+u_00185,user185@example.com,FR,19.02.2025,organic,iOS,3.2.4
+u_00338,user338@example.com,IT,18.03.2025,ASA,android,2.1.4
+u_00380,user380@example.com,CA,2025-02-14 13:46:04,ORGANIC,android,4.0.0
+u_00370,user370@example.com,MX,2025-01-02,FB,android,3.3.3
+u_00339,user339@gmail.com,CA,17.03.2025,facebook_ads,ios,4.7.0
+u_00199,user199@gmail.com,MX,2025-02-21,Facebook,Android,3.7.1
+u_00035,user35@gmail.com,GB,25/01/2025,facebook_ads,android,2.2.3
+u_00005,user5@gmail.com,GB,08/01/2025,apple_search,ios,3.1.1
+u_00439,user439@gmail.com,CA,02/07/2025,facebook,Android,2.5.0
+u_00239,user239@example.com,US,14.03.2025,tiktok_ads,android,4.6.2
+u_00414,user414@gmail.com,FR,02/26/2025,Meta,ios,2.3.5
+u_00139,user139@gmail.com,NL,2025-02-09,TikTok,iOS,4.6.2
+u_00317,user317@gmail.com,JP,2025-03-10 00:25:29,tiktok_ads,Android,4.4.1
+u_00357,user357@gmail.com,BR,2025-02-15 16:25:46,Facebook,iOS,4.4.3
+u_00423,user423@gmail.com,FR,02/27/2025,FB,android,3.7.4
+u_00146,user146@gmail.com,MX,2025-01-31 01:06:44,referral,Android,3.6.4
+u_00031,user31@example.com,NO,28/03/2025,facebook_ads,Android,4.4.4
+u_00088,user88@gmail.com,GB,21/03/2025,facebook,ios,3.8.3
+u_00131,user131@gmail.com,IT,01/24/2025,Organic,iOS,2.1.4
+u_00426,user426@example.com,,21/01/2025,Apple Search Ads,android,2.8.0
+u_00270,user270@gmail.com,FR,03/20/2025,Facebook,ios,3.9.2
+u_00340,user340@example.com,UK,17/01/2025,GoogleAds,android,2.7.2
+u_00299,user299@gmail.com,GB,2025-02-05 19:38:39,Google Ads,ios,2.8.1
+u_00193,user193@gmail.com,GB,03/10/2025,referral,ios,2.9.5
+u_00010,user10@gmail.com,USA,24/02/2025,apple_search,android,4.7.0
+u_00343,user343@gmail.com,CA,03/13/2025,referral,ios,4.8.3
+u_00475,user475@gmail.com,US,2025-01-02 10:18:40,referral,android,4.0.2
+u_00407,user407@gmail.com,FR,2025-02-07,facebook_ads,iOS,3.8.0
+u_00073,user73@gmail.com,IT,03/16/2025,Organic,Android,4.6.2
+u_00374,user374@gmail.com,US,04.03.2025,google,iOS,3.9.5
+u_00319,user319@example.com,JP,03/02/2025,google,ios,2.8.2
+u_00248,user248@gmail.com,DE,2025-02-28 13:35:02,Google Ads,Android,4.3.2
+u_00483,user483@example.com,,08.03.2025,organic,Android,3.8.5
+u_00133,user133@gmail.com,US,2025-01-25 20:26:57,Google Ads,Android,3.9.4
+u_00385,user385@example.com,US,01/20/2025,Google Ads,android,2.6.0
+u_00268,user268@example.com,US,01/22/2025,Organic,Android,2.7.0
+u_00280,user280@gmail.com,US,08/03/2025,ORGANIC,ios,3.1.1
+u_00105,user105@gmail.com,DE,2025-03-07 12:28:59,google_ads,ios,4.4.5
+u_00109,user109@gmail.com,US,08/02/2025,GoogleAds,iOS,4.9.0
+u_00276,user276@gmail.com,US,2025-02-23,Apple Search Ads,android,2.7.0
+u_00415,user415@example.com,GB,2025-03-13 19:53:48,Organic,ios,3.5.2
+u_00108,user108@gmail.com,US,03/09/2025,tiktok_ads,android,4.5.0
+u_00170,user170@gmail.com,DE,2025-02-25 13:30:10,tiktok_ads,Android,4.6.3
+u_00012,user12@gmail.com,USA,02/15/2025,referral_program,iOS,4.5.0
+u_00242,user242@example.com,GB,02/07/2025,TikTok,iOS,2.2.0
+u_00231,user231@example.com,FR,01/01/2025,apple_search,iOS,2.8.5
+u_00436,user436@gmail.com,KR,2025-03-01 09:47:07,GoogleAds,android,2.5.4
+u_00057,user57@example.com,IT,23/03/2025,facebook,Android,3.4.2
+u_00356,user356@gmail.com,NO,04.02.2025,google_ads,ios,3.7.0
+u_00176,user176@gmail.com,USA,2025-03-16 20:36:44,Apple Search Ads,Android,4.8.2
+u_00008,user8@example.com,,03/08/2025,TikTok,iOS,2.3.4
+u_00148,user148@example.com,AU,11.03.2025,referral_program,ios,2.6.0
+u_00491,user491@gmail.com,AU,13/03/2025,FB,iOS,4.6.1
+u_00318,user318@gmail.com,,02/17/2025,Facebook,Android,4.3.1
+u_00458,user458@gmail.com,FR,01/30/2025,GoogleAds,iOS,3.1.3
+u_00028,user28@example.com,DE,2025-03-07,tiktok,iOS,2.8.1
+u_00379,user379@gmail.com,GB,2025-03-14 22:57:31,referral,ios,3.3.0
+u_00449,user449@example.com,GB,16/02/2025,TikTok,ios,3.3.1
+u_00480,user480@gmail.com,,2025-03-19 03:03:49,GoogleAds,android,4.9.1
+u_00373,user373@example.com,GB,01/27/2025,FB,ios,3.7.3
+u_00388,user388@gmail.com,IT,07/02/2025,ASA,ios,3.6.2
+u_00080,user80@gmail.com,MX,2025-03-05,ORGANIC,Android,3.5.3
+u_00192,user192@gmail.com,IT,03/07/2025,GoogleAds,Android,3.3.5
+u_00452,user452@gmail.com,GB,2025-03-16 04:51:37,referral_program,Android,3.8.0
+u_00103,user103@gmail.com,US,15.02.2025,FB,Android,3.1.3
+u_00120,user120@gmail.com,GB,12.01.2025,Organic,android,3.5.0
+u_00419,user419@gmail.com,,15.02.2025,referral_program,android,4.2.4
+u_00023,user23@gmail.com,US,10/01/2025,google_ads,android,3.0.3
+u_00226,user226@gmail.com,,31.01.2025,Organic,Android,4.6.2
+u_00075,user75@gmail.com,US,23/02/2025,FB,android,3.4.5
+u_00320,user320@gmail.com,NL,08/01/2025,tiktok_ads,android,4.6.5
+u_00227,user227@gmail.com,GB,01/15/2025,Google Ads,android,3.7.5
+u_00412,user412@example.com,DE,24.03.2025,apple_search,iOS,3.5.2
+u_00421,user421@gmail.com,USA,2025-01-26 15:59:48,tiktok_ads,Android,2.0.5
+u_00462,user462@example.com,US,02/09/2025,FB,ios,4.6.2
+u_00180,user180@gmail.com,DE,25/03/2025,ASA,Android,2.7.4
+u_00087,user87@gmail.com,FR,2025-01-19 12:09:15,ASA,Android,3.8.2
+u_00157,user157@gmail.com,AU,20/03/2025,google,android,2.7.0
+u_00395,user395@gmail.com,JP,07/02/2025,Organic,ios,4.7.1
+u_00013,user13@gmail.com,US,29.01.2025,Organic,iOS,2.8.0
+u_00336,user336@example.com,KR,2025-01-17 18:50:13,google,Android,2.2.4
+u_00500,user500@gmail.com,GB,16/03/2025,TikTok,android,4.9.0
+u_00177,user177@example.com,DE,2025-03-04 07:45:08,tiktok,android,3.7.3
+u_00165,user165@gmail.com,JP,03/07/2025,ORGANIC,ios,3.5.5
+u_00098,user98@gmail.com,GB,2025-01-11 08:31:12,google_ads,ios,3.0.4
+u_00179,user179@gmail.com,US,2025-02-19,apple_search,Android,2.4.3
+u_00188,user188@gmail.com,IT,19.03.2025,facebook,ios,2.0.4
+u_00217,user217@example.com,FR,12.02.2025,google_ads,iOS,3.9.4
+u_00212,user212@gmail.com,US,2025-01-28 20:58:11,Organic,Android,3.6.3
+u_00344,user344@example.com,BR,2025-01-14,referral_program,iOS,2.0.3
+u_00058,user58@gmail.com,IT,17.01.2025,ASA,iOS,2.4.4
+u_00046,user46@gmail.com,DE,01/03/2025,FB,Android,4.0.0
+u_00499,user499@gmail.com,AU,17.01.2025,referral,iOS,3.1.0
+u_00351,user351@example.com,NL,01/28/2025,tiktok,android,3.4.1
+u_00166,user166@gmail.com,JP,28.01.2025,google_ads,iOS,2.4.2
+u_00221,user221@gmail.com,FR,30/03/2025,Facebook,android,3.1.3
+u_00398,user398@gmail.com,US,02/15/2025,Meta,ios,3.9.4
+u_00137,user137@gmail.com,IT,01/19/2025,TikTok,Android,4.1.4
+u_00037,user37@example.com,BR,01/11/2025,organic,android,2.3.0
+u_00125,user125@example.com,BR,02/27/2025,FB,Android,3.6.3
+u_00127,user127@gmail.com,US,21/02/2025,tiktok,android,2.4.2
+u_00269,user269@gmail.com,US,17.03.2025,google_ads,ios,2.3.1
+u_00377,user377@gmail.com,KR,2025-02-24 20:34:26,google_ads,ios,4.3.3
+u_00316,user316@example.com,GB,02/25/2025,organic,Android,4.0.5
+u_00288,user288@gmail.com,US,26.01.2025,Google Ads,iOS,3.6.5
+u_00101,user101@gmail.com,US,05.02.2025,Meta,ios,3.8.4
+u_00486,user486@gmail.com,CA,2025-03-02 04:05:10,tiktok_ads,Android,2.8.5
+u_00334,user334@gmail.com,US,2025-01-23 02:08:35,apple_search,android,4.3.3
+u_00203,user203@example.com,AU,29/03/2025,organic,ios,3.5.1
+u_00250,user250@gmail.com,JP,2025-03-12 14:31:47,ORGANIC,Android,4.7.1
+u_00102,user102@gmail.com,AU,03/30/2025,GoogleAds,ios,4.5.0
+u_00287,user287@gmail.com,FR,2025-02-10,tiktok_ads,Android,4.1.0
+u_00247,user247@gmail.com,GB,01.01.2025,organic,android,2.4.2
+u_00070,user70@gmail.com,US,10/03/2025,apple_search,iOS,4.7.0
+u_00391,user391@gmail.com,SE,2025-02-22 16:05:48,TikTok,ios,4.8.2
+u_00067,user67@gmail.com,FR,2025-02-15 22:46:36,apple_search,android,3.4.2
+u_00277,user277@gmail.com,DE,13/01/2025,google,iOS,4.4.1
+u_00397,user397@gmail.com,US,17.01.2025,referral_program,iOS,3.0.2
+u_00223,user223@gmail.com,US,2025-03-12,apple_search,Android,2.3.5
+u_00257,user257@gmail.com,US,20/03/2025,facebook_ads,ios,4.2.4
+u_00482,user482@gmail.com,CA,01/15/2025,apple_search,Android,3.3.0
+u_00044,user44@gmail.com,NL,2025-02-12,ORGANIC,android,3.8.5
+u_00135,user135@gmail.com,IT,2025-01-30,GoogleAds,ios,3.4.0
+u_00205,user205@gmail.com,US,02/04/2025,google_ads,iOS,4.1.5
+u_00281,user281@example.com,SE,2025-02-07 04:37:03,FB,iOS,2.2.0
+u_00269,user269@gmail.com,US,17.03.2025,google_ads,ios,2.3.1
+u_00382,user382@gmail.com,JP,03/05/2025,ORGANIC,ios,4.9.4
+u_00293,user293@gmail.com,,03/17/2025,GoogleAds,iOS,4.1.2
+u_00244,user244@gmail.com,DE,02/01/2025,tiktok,iOS,4.8.1
+u_00043,user43@gmail.com,UK,25.02.2025,tiktok,iOS,4.5.3
+u_00173,user173@gmail.com,GB,2025-01-16,google,Android,3.3.5
+u_00068,user68@example.com,SE,23/01/2025,facebook_ads,ios,2.3.5
+u_00076,user76@gmail.com,US,25/03/2025,ORGANIC,Android,3.1.4
+u_00196,user196@example.com,NO,11/01/2025,ASA,Android,2.1.3
+u_00403,user403@gmail.com,US,13.02.2025,referral,Android,4.0.5
+u_00149,user149@gmail.com,AU,03/30/2025,google_ads,ios,2.6.0
+u_00222,user222@example.com,US,2025-03-24,tiktok_ads,Android,2.3.4
+u_00164,user164@example.com,US,17.03.2025,ORGANIC,iOS,2.9.1
+u_00047,user47@example.com,US,2025-03-17 13:51:03,Organic,android,2.7.5
+u_00259,user259@gmail.com,DE,2025-03-01,Google Ads,android,4.1.4
+u_00295,user295@example.com,MX,2025-01-25,facebook_ads,iOS,2.0.3
+u_00305,user305@example.com,DE,2025-01-16 23:01:17,ORGANIC,android,3.7.2
+u_00386,user386@gmail.com,US,2025-03-03 11:33:26,Apple Search Ads,android,2.8.5
+u_00229,user229@gmail.com,JP,04/01/2025,FB,iOS,2.2.0
+u_00498,user498@gmail.com,AU,2025-01-23,GoogleAds,iOS,4.5.3
+u_00202,user202@gmail.com,SE,14/02/2025,GoogleAds,iOS,2.9.5
+u_00375,user375@gmail.com,IT,12/02/2025,google,ios,3.7.0
+u_00345,user345@gmail.com,NL,2025-01-05,tiktok_ads,ios,4.0.1
+u_00026,user26@gmail.com,NL,27.02.2025,FB,Android,4.0.4
+u_00079,user79@gmail.com,US,2025-01-25,facebook,iOS,2.7.4
+u_00114,user114@gmail.com,US,02/13/2025,referral_program,iOS,3.0.0
+u_00358,user358@gmail.com,US,2025-01-06 05:58:24,Meta,Android,2.5.5
+u_00258,user258@example.com,FR,2025-01-16 13:08:35,TikTok,android,3.0.5
+u_00335,user335@gmail.com,UK,30.01.2025,FB,iOS,2.1.3
+u_00154,user154@gmail.com,IT,11.02.2025,facebook,Android,3.1.4
