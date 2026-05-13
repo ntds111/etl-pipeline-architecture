@@ -97,5 +97,5 @@ psql takehome_db -f test2/etl/queries/q3_surprising_finding.sql # Q3: subscripti
 
 ## Part 3 — Architecture
 
-See [architecture/concept.md](architecture/concept.md) for the AWS-based automation concept
-(S3 → Lambda → Airflow/MWAA → dbt on ECS Fargate → Redshift).
+See [architecture/concept.md](architecture/concept.md) for the AWS deployment concept:
+EventBridge Scheduler → Step Functions → Lambda A (file fetch) → Lambda B (ETL) → Aurora Serverless v2.
