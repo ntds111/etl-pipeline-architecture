@@ -53,13 +53,6 @@ Four-source pipeline for the Pulsefit fitness app. Raw data lands in `raw_pulsef
 is cleaned and validated into `build_pulsefit`, then modelled into the `star_pulsefit`
 star schema. Rejected rows are stored in `_rejected` tables with a `rejection_reason`.
 
-Each row carries a `content_hash` (MD5 of all source fields) used for deduplication and upsert.
-Three outcomes per row:
-
-- **New key** → INSERT
-- **Same key, different hash** → UPDATE (source correction)
-- **Same key, same hash** → no-op (true duplicate, nothing written)
-
 ### Setup (first time only)
 
 ```bash
