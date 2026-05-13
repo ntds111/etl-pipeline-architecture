@@ -1,6 +1,6 @@
 -- ============================================================
 -- Part 2: ETL raw schema (raw_pulsefit)
--- Run with: psql calimoto_data -f etl/raw_pulsefit.sql
+-- Run with: psql takehome_db -f etl/raw_pulsefit.sql
 -- ============================================================
 
 CREATE SCHEMA IF NOT EXISTS raw_pulsefit;

@@ -37,7 +37,7 @@
 --   Total unique subscribed users: 92 + 8 + 40 = 140 across both sources;
 --   only 8 are verified by both.
 --
--- Run with: psql calimoto_data -f etl/queries/q3_surprising_finding.sql
+-- Run with: psql takehome_db -f etl/queries/q3_surprising_finding.sql
 -- ============================================================
 
 -- ── FINDING A: events before CRM install_date ─────────────────────────────

@@ -1,6 +1,6 @@
 -- ============================================================
 -- Part 2: star_pulsefit — analysis-ready star schema
--- Run with: psql calimoto_data -f etl/star_pulsefit.sql
+-- Run with: psql takehome_db -f etl/star_pulsefit.sql
 -- ============================================================
 
 CREATE SCHEMA IF NOT EXISTS star_pulsefit;

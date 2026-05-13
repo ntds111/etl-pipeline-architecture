@@ -1,6 +1,6 @@
 -- ============================================================
 -- Part 1: SQL Foundations schema (ecommerce)
--- Run with: psql calimoto_data -f test1/sql/schema_ecommerce.sql
+-- Run with: psql takehome_db -f test1/sql/schema_ecommerce.sql
 -- ============================================================
 
 CREATE SCHEMA IF NOT EXISTS ecommerce;

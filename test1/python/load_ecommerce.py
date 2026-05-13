@@ -2,7 +2,7 @@ import os
 import psycopg2
 import csv
 
-DB_NAME = "calimoto_data"
+DB_NAME = "takehome_db"
 SQL_FILE = os.path.join(os.path.dirname(__file__), "..", "sql", "schema_ecommerce.sql")
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 

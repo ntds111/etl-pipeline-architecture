@@ -1,4 +1,4 @@
-# Calimoto Data Engineer Take-Home
+# Data Engineer Take-Home
 
 ---
 
@@ -13,22 +13,22 @@ All objects live in the `ecommerce` schema to keep Part 1 isolated from Part 2.
 
 ```bash
 # Create the database (skip if already exists)
-createdb calimoto_data 2>/dev/null || true
+createdb takehome_db 2>/dev/null || true
 
 # Option A — Python loader (recommended): creates schema + loads all CSVs in one step
 pip install -r requirements.txt
 python3 test1/python/load_ecommerce.py
 
 # Option B — manual psql
-psql calimoto_data -f test1/sql/schema_ecommerce.sql
-psql calimoto_data -c "\copy ecommerce.customers   FROM 'test1/data/customers.csv'   CSV HEADER"
-psql calimoto_data -c "\copy ecommerce.orders       FROM 'test1/data/orders.csv'       CSV HEADER"
-psql calimoto_data -c "\copy ecommerce.order_items  FROM 'test1/data/order_items.csv'  CSV HEADER"
+psql takehome_db -f test1/sql/schema_ecommerce.sql
+psql takehome_db -c "\copy ecommerce.customers   FROM 'test1/data/customers.csv'   CSV HEADER"
+psql takehome_db -c "\copy ecommerce.orders       FROM 'test1/data/orders.csv'       CSV HEADER"
+psql takehome_db -c "\copy ecommerce.order_items  FROM 'test1/data/order_items.csv'  CSV HEADER"
 ```
 
 > **Warning — run from your project root.**
 > Both the Python loader and the `psql -f` commands must be run from the
-> directory where you cloned this repo (e.g. `cd /your/path/to/calimoto\ GmbH`).
+> directory where you cloned this repo (e.g. `cd /your/path/to/take-home-task-data-engineering`).
 > Adjust the path to match your local setup before running any commands.
 > Running from a different directory causes a "file not found" error or silently
 > connects without creating the schema — if `\dn` inside psql shows no schemas
@@ -51,9 +51,9 @@ No nulls in required fields, no duplicate PKs, no orphan FKs, no orders placed b
 ### Run queries
 
 ```bash
-psql calimoto_data -f test1/sql/q1_revenue_per_customer.sql  # total revenue per customer
-psql calimoto_data -f test1/sql/q2_top3_per_month.sql        # top 3 customers by revenue per month
-psql calimoto_data -f test1/sql/q3_reactivated_customers.sql # customers reactivated after 90-day gap
+psql takehome_db -f test1/sql/q1_revenue_per_customer.sql  # total revenue per customer
+psql takehome_db -f test1/sql/q2_top3_per_month.sql        # top 3 customers by revenue per month
+psql takehome_db -f test1/sql/q3_reactivated_customers.sql # customers reactivated after 90-day gap
 ```
 
 ---
@@ -86,7 +86,7 @@ via `ROW_NUMBER() OVER (PARTITION BY date, channel, country_code, campaign_name 
 
 ```bash
 # Create the database (skip if already exists or if you ran Part 1 setup)
-createdb calimoto_data 2>/dev/null || true
+createdb takehome_db 2>/dev/null || true
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -138,9 +138,9 @@ copy and `test2/etl/outputs/*.json` stores run metadata.
 ### Analytical queries
 
 ```bash
-psql calimoto_data -f test2/etl/queries/q1_cac_per_channel.sql    # Q1: blended cost per install per paid channel
-psql calimoto_data -f test2/etl/queries/q2_funnel_conversion.sql  # Q2: funnel conversion rates per channel
-psql calimoto_data -f test2/etl/queries/q3_surprising_finding.sql # Q3: subscription date coverage gap
+psql takehome_db -f test2/etl/queries/q1_cac_per_channel.sql    # Q1: blended cost per install per paid channel
+psql takehome_db -f test2/etl/queries/q2_funnel_conversion.sql  # Q2: funnel conversion rates per channel
+psql takehome_db -f test2/etl/queries/q3_surprising_finding.sql # Q3: subscription date coverage gap
 ```
 
 ---

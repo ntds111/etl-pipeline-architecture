@@ -1,7 +1,7 @@
 -- ============================================================
 -- Part 2 · Q1: Blended cost per paid-acquisition install
 -- Reporting currency: USD
--- Run with: psql calimoto_data -f etl/queries/q1_cac_per_channel.sql
+-- Run with: psql takehome_db -f etl/queries/q1_cac_per_channel.sql
 -- ============================================================
 
 SELECT

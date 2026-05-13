@@ -20,7 +20,7 @@ from datetime import datetime, date
 
 import psycopg2
 
-DB_NAME     = "calimoto_data"
+DB_NAME     = "takehome_db"
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SQL_FILE    = os.path.join(BASE_DIR, "sql", "raw_pulsefit.sql")
 DATA_DIR    = os.path.join(os.path.dirname(BASE_DIR), "data")

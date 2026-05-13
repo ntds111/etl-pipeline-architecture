@@ -21,7 +21,7 @@
 -- spend later will appear artificially worse. Cohort-level analysis is possible
 -- with event timestamps but not included here.
 --
--- Run with: psql calimoto_data -f etl/queries/q2_funnel_conversion.sql
+-- Run with: psql takehome_db -f etl/queries/q2_funnel_conversion.sql
 -- ============================================================
 
 WITH funnel AS (
