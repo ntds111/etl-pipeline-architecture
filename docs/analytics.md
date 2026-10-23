@@ -2,7 +2,7 @@
 
 ---
 
-## Q1: Blended CPI per paid channel
+## Blended CPI per paid channel
 
 **Reporting currency:** USD (multi-currency spend converted at static period rates).
 **Denominator:** ad-platform reported installs, blended across all countries, campaigns, and dates.
@@ -16,7 +16,7 @@
 
 ---
 
-## Q2: Funnel conversion per channel
+## Funnel conversion per channel
 
 **Population note:** the funnel is built on CRM-registered users (`dim_user`, 500 total) — users
 who created an account. Ad-platform installs (10,428 across paid channels) are a different
@@ -50,7 +50,7 @@ end-to-end conversion (threshold = median across the four paid channels).
 
 ---
 
-## Q3: Surprising findings
+## Data quality findings
 
 ### Finding A — `install_date` is the CRM entry date, not the app install date
 
@@ -65,7 +65,7 @@ Free-tier activity leaves no CRM footprint until the user signs up.
 
 **Why it matters:** any time-to-convert or cohort analysis anchored on `install_date` will be
 systematically ~45 days too short. The correct anchor is the first `install` or `app_open`
-event from `fact_events`. This also explains the Q2 freemium paths — users active before
+event from `fact_events`. This also explains the freemium funnel paths — users active before
 CRM registration have no signup event on record.
 
 > **Question for data producer:** is `install_date` populated at signup completion,
@@ -76,7 +76,7 @@ CRM registration have no signup event on record.
 ### Finding B — subscription data from two sources does not reconcile
 
 Two independent sources record subscriptions:
-- **`subscriptions.json`** — payment dump from Stripe (named in the task as one of the three manual sources)
+- **`subscriptions.json`** — payment export from Stripe
 - **`events.csv`** — product analytics stream, specifically the `subscription_started` event
 
 They barely overlap.

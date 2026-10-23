@@ -1,56 +1,56 @@
-# Data Engineer Take-Home
+# Sample ETL Pipeline Architecture
 
-## Part 1 — ETL Pipeline
+A small Python + PostgreSQL reference pipeline using fitness-app sample data.
+It demonstrates incremental raw ingestion, SQL-based cleaning, rejected-row
+tracking, validation gates, and an analytics-ready star schema.
 
-**Tools:** PostgreSQL 14+, Python 3.10+, psycopg2
+## Architecture
 
-Four-source pipeline for the Pulsefit fitness app. Raw data lands in `raw_pulsefit`,
-is cleaned and validated into `build_pulsefit`, then modelled into the `star_pulsefit`
-star schema. Rejected rows are stored in `_rejected` tables with a `rejection_reason`.
-
-### Setup (first time only)
-
-```bash
-# Create the database (skip if already exists)
-createdb takehome_db 2>/dev/null || true
-
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+```text
+CSV / JSON → raw_pulsefit → build_pulsefit → star_pulsefit → analytical SQL
+                 Python       SQL + checks      SQL + checks
 ```
 
-### Run pipeline
+Python handles ingestion and orchestration; PostgreSQL handles transformations.
+Each run writes JSON summaries to `outputs/`. The [architecture](docs/architecture.md)
+describes the components and an optional AWS deployment concept.
+
+## Quickstart
+
+Requires Python 3.10+, a running PostgreSQL 14+ server, PostgreSQL CLI tools, and Make.
+Run from the repository root using a database role that can create schemas and tables.
 
 ```bash
-source .venv/bin/activate
-
-# Stage and upsert raw data (also creates/migrates raw schema on first run)
-python3 test2/etl/python/ingest_raw.py
-
-# Build clean layer and star schema
-python3 test2/etl/python/pipeline.py
+make setup
+cp .env.example .env
+set -a; . ./.env; set +a
+createdb "$PGDATABASE"   # First time only; use a dedicated sample database
+make run
+make test
+make lint
+psql -v ON_ERROR_STOP=1 -f sql/queries/cost_per_install.sql
 ```
 
-Build-layer DQ summary (latest run):
+`make run` ingests the bundled data, then rebuilds the build and star layers.
+**Do not point it at a production database:** those two schemas are dropped/rebuilt.
+See the [runbook](docs/runbook.md) for connection settings and troubleshooting.
 
-| Table | Raw | Built | Rejected | Rejection reasons |
-|---|---|---|---|---|
-| users | 500 | 500 | 0 | — |
-| events | 3232 | 3102 | 130 | null_event_timestamp (78), no_crm_user (32), malformed_properties_json (20) |
-| ad_spend | 161 | 154 | 6 | non_positive_spend |
-| subscriptions | 110 | 110 | 0 | — |
+## Repository layout
 
-### Analytical queries
-
-```bash
-psql takehome_db -f test2/etl/queries/q1_cac_per_channel.sql    # Q1: blended cost per install per paid channel
-psql takehome_db -f test2/etl/queries/q2_funnel_conversion.sql  # Q2: funnel conversion rates per channel
-psql takehome_db -f test2/etl/queries/q3_surprising_finding.sql # Q3: subscription date coverage gap
+```text
+src/              Python ingestion, orchestration, and validators
+sql/              Raw, build, and star SQL; queries/ for analytics
+data/             Bundled CSV and JSON inputs
+tests/            Lightweight regression tests
+docs/             Architecture, runbook, design decisions, and analytics notes
 ```
 
----
+## Extension points
 
-## Part 2 — Architecture
+- Add sources in `src/ingest_raw.py` alongside matching raw SQL definitions.
+- Adjust normalization and rejection rules in `sql/build_pulsefit.sql`.
+- Extend dimensions/facts in `sql/star_pulsefit.sql` and their Python validators.
+- Add reporting queries under `sql/queries/`.
 
-See [architecture/concept.md](architecture/concept.md) for the AWS deployment concept:
-EventBridge Scheduler → Step Functions → Lambda A (file fetch) → Lambda B (ETL) → Aurora Serverless v2.
+See [design decisions](docs/decisions.md) and the preserved
+[sample analytics notes](docs/analytics.md) for context.
