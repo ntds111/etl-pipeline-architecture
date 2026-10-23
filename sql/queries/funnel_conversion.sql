@@ -1,5 +1,5 @@
 -- ============================================================
--- Part 2 · Q2: Funnel conversion per channel
+-- Funnel conversion per channel
 -- registered CRM users → workout_started → workout_completed → subscription_started
 --
 -- POPULATION: dim_user (~500 CRM-registered users). This is NOT app installs.
@@ -21,7 +21,7 @@
 -- spend later will appear artificially worse. Cohort-level analysis is possible
 -- with event timestamps but not included here.
 --
--- Run with: psql takehome_db -f etl/queries/q2_funnel_conversion.sql
+-- Run with: psql -d pulsefit_db -f sql/queries/funnel_conversion.sql
 -- ============================================================
 
 WITH funnel AS (

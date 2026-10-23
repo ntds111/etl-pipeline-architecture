@@ -1,7 +1,7 @@
 -- ============================================================
--- Part 2 · Q1: Blended cost per paid-acquisition install
+-- Blended cost per paid-acquisition install
 -- Reporting currency: USD
--- Run with: psql takehome_db -f etl/queries/q1_cac_per_channel.sql
+-- Run with: psql -d pulsefit_db -f sql/queries/cost_per_install.sql
 -- ============================================================
 
 SELECT

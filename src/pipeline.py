@@ -22,7 +22,7 @@ import output
 from validators.build_checks import check_build, referential_integrity_raw_to_build, acceptance_build
 from validators.star_checks  import check_star,  referential_integrity_build_to_star, compare_layers
 
-DB_NAME     = "takehome_db"
+DB_NAME     = os.environ.get("PGDATABASE", "pulsefit_db")
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BUILD_SQL   = os.path.join(BASE_DIR, "sql", "build_pulsefit.sql")
 STAR_SQL    = os.path.join(BASE_DIR, "sql", "star_pulsefit.sql")

@@ -1,5 +1,5 @@
 -- ============================================================
--- Part 2 · Q3: Surprising findings
+-- Data quality findings
 --
 -- Finding A — what looked like a data gap turned out to be the freemium model:
 --
@@ -17,7 +17,7 @@
 --   that signup moment as install_date — not the actual first app open.
 --   Free-tier activity leaves no CRM footprint until the user signs up.
 --
---   This also explains Q2: 166 users completed workouts with no signup_complete
+--   This also explains the funnel: 166 users completed workouts with no signup_complete
 --   event, and 21 subscribed with no signup event. They were not missing data —
 --   they were freemium users who paid before or without ever signing up.
 --
@@ -37,7 +37,7 @@
 --   Total unique subscribed users: 92 + 8 + 40 = 140 across both sources;
 --   only 8 are verified by both.
 --
--- Run with: psql takehome_db -f etl/queries/q3_surprising_finding.sql
+-- Run with: psql -d pulsefit_db -f sql/queries/data_quality_findings.sql
 -- ============================================================
 
 -- ── FINDING A: events before CRM install_date ─────────────────────────────

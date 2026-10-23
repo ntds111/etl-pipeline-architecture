@@ -1,6 +1,6 @@
 -- ============================================================
--- Part 2: Cleaned + typed build_pulsefit layer built from raw_pulsefit
--- Run with: psql takehome_db -f etl/build_pulsefit.sql
+-- Cleaned + typed build_pulsefit layer built from raw_pulsefit
+-- Run with: psql -d pulsefit_db -f sql/build_pulsefit.sql
 -- FX rates (static, period approximation): EUR=1.08, GBP=1.27
 --
 -- DATA QUALITY CHECKS AND NORMALIZATIONS APPLIED

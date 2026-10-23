@@ -8,7 +8,7 @@ Steps:
                           same key, different content_hash → updated
                           same key, same content_hash (true duplicate) → skipped
                         reject invalid rows to _rejected tables
-  3. save_output()    — write run summary JSON to etl/outputs/
+  3. save_output()    — write run summary JSON to outputs/
 """
 
 import csv
@@ -20,10 +20,10 @@ from datetime import datetime, date
 
 import psycopg2
 
-DB_NAME     = "takehome_db"
+DB_NAME     = os.environ.get("PGDATABASE", "pulsefit_db")
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SQL_FILE    = os.path.join(BASE_DIR, "sql", "raw_pulsefit.sql")
-DATA_DIR    = os.path.join(os.path.dirname(BASE_DIR), "data")
+DATA_DIR    = os.path.join(BASE_DIR, "data")
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
 # Expected schema: {table: {column: pg_data_type}}
